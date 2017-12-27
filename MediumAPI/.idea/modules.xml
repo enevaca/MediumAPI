@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MediumAPI.iml" filepath="$PROJECT_DIR$/MediumAPI.iml" />
+      <module fileurl="file://C:\Users\enevaca.PJ-SCR\AndroidStudioProjects\MediumAPI\MediumAPI\MediumAPI.iml" filepath="C:\Users\enevaca.PJ-SCR\AndroidStudioProjects\MediumAPI\MediumAPI\MediumAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\enevaca.PJ-SCR\AndroidStudioProjects\MediumAPI\MediumAPI\app\app.iml" filepath="C:\Users\enevaca.PJ-SCR\AndroidStudioProjects\MediumAPI\MediumAPI\app\app.iml" />
     </modules>
   </component>
 </project>
